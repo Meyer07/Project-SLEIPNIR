@@ -1,0 +1,9 @@
+# SLEIPNIR deployment dependencies.
+# The CUDA builds below match the validated NVIDIA Brev environment.
+# Install from the approved PyTorch CUDA 13.0 package source for the target system.
+torch==2.14.1+cu130
+torchvision==0.29.1+cu130
+numpy>=1.26,<3
+pandas>=2.2,<4
+Pillow>=10,<13
+opencv-python-headless>=4.10,<5

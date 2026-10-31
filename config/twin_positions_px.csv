@@ -1,0 +1,36 @@
+fix,pos,col_from_right,row_from_top,x_m,y_m,z_m,u_px,v_px,note
+G,1,1,1,-0.495,-0.78,1.232,378.23,161.451,upright vial in aperture
+G,2,1,2,-0.495,-0.72,1.232,379.715,197.383,upright vial in aperture
+G,3,1,3,-0.496,-0.659,1.232,380.877,233.45,upright vial in aperture
+G,4,1,4,-0.495,-0.598,1.232,381.614,269.475,upright vial in aperture
+G,5,1,5,-0.496,-0.535,1.232,382.857,305.864,upright vial in aperture
+G,6,2,1,-0.444,-0.78,1.232,348.414,162.186,upright vial in aperture
+G,7,2,2,-0.444,-0.719,1.232,349.593,198.831,upright vial in aperture
+G,8,2,3,-0.445,-0.658,1.232,350.79,234.924,upright vial in aperture
+G,9,2,4,-0.444,-0.597,1.232,351.59,270.984,upright vial in aperture
+G,10,2,5,-0.445,-0.535,1.232,353.124,307.24,upright vial in aperture
+G,11,3,1,-0.394,-0.78,1.232,318.295,163.325,upright vial in aperture
+G,12,3,2,-0.394,-0.719,1.232,319.458,199.853,upright vial in aperture
+G,13,3,3,-0.393,-0.657,1.232,320.406,236.714,upright vial in aperture
+G,14,3,4,-0.395,-0.597,1.232,322.293,272.054,upright vial in aperture
+G,15,3,5,-0.393,-0.535,1.232,322.818,308.576,upright vial in aperture
+G,16,4,1,-0.341,-0.78,1.232,286.883,163.909,upright vial in aperture
+G,17,4,2,-0.342,-0.719,1.232,288.445,200.486,upright vial in aperture
+G,18,4,3,-0.342,-0.658,1.232,290.029,237.426,upright vial in aperture
+G,19,4,4,-0.342,-0.596,1.232,291.217,273.907,upright vial in aperture
+G,20,4,5,-0.344,-0.535,1.232,293.751,310.047,upright vial in aperture
+G,21,5,1,-0.29,-0.779,1.232,255.587,165.416,upright vial in aperture
+G,22,5,2,-0.291,-0.719,1.232,257.803,201.862,upright vial in aperture
+G,23,5,3,-0.291,-0.657,1.232,259.229,238.851,upright vial in aperture
+G,24,5,4,-0.291,-0.596,1.232,260.529,275.315,upright vial in aperture
+G,25,5,5,-0.291,-0.534,1.232,262.355,312.105,upright vial in aperture
+G,26,6,1,-0.239,-0.779,1.232,224.888,166.559,upright vial in aperture
+G,27,6,2,-0.239,-0.718,1.232,226.521,203.64,upright vial in aperture
+G,28,6,3,-0.239,-0.656,1.232,228.071,240.412,upright vial in aperture
+G,29,6,4,-0.239,-0.595,1.232,229.547,276.908,upright vial in aperture
+G,30,6,5,-0.24,-0.535,1.232,231.718,312.717,upright vial in aperture
+S,1,1,1,-0.835,-0.624,1.224,562.403,244.891,"twin models only S01-S05, tilted at plate edge; NOT aperture centres"
+S,2,1,2,-0.836,-0.54,1.222,561.21,290.578,"twin models only S01-S05, tilted at plate edge; NOT aperture centres"
+S,3,1,3,-0.837,-0.492,1.224,563.269,316.577,"twin models only S01-S05, tilted at plate edge; NOT aperture centres"
+S,4,1,4,-0.837,-0.418,1.222,561.321,355.293,"twin models only S01-S05, tilted at plate edge; NOT aperture centres"
+S,5,1,5,-0.838,-0.37,1.224,562.365,381.012,"twin models only S01-S05, tilted at plate edge; NOT aperture centres"

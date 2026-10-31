@@ -1,0 +1,38 @@
+{
+  "project_name": "SLEIPNIR",
+  "version": "1.0.0",
+  "active_model": "Round 3 tight-crop five-class ResNet18",
+  "model_checkpoint": "model/sleipnir-round3-v1.0.0.pt",
+  "fixture": "G",
+  "expected_positions": 30,
+  "class_order": [
+    "no_vial",
+    "pass",
+    "missing_cap",
+    "crooked_cap",
+    "damaged_vial"
+  ],
+  "automatic_reject_classes": [
+    "missing_cap",
+    "damaged_vial"
+  ],
+  "review_classes": [
+    "crooked_cap"
+  ],
+  "review_confidence_below": 0.70,
+  "review_top2_margin_below": 0.15,
+  "episode_gap_minutes": 5.0,
+  "frame_decision_priority": [
+    "REJECT",
+    "REVIEW",
+    "PASS",
+    "NO_VIAL"
+  ],
+  "notes": [
+    "Tight crops are the only automatic model input.",
+    "Context crops may be shown during human review but do not alter automatic decisions.",
+    "Crooked-cap predictions require review because performance varied across held-out sessions.",
+    "Consecutive alerts at the same fixture position are grouped into one event."
+  ]
+}
+
